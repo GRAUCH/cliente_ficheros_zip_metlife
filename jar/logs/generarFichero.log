@@ -1,0 +1,300 @@
+2025-10-21 14:15:58 INFO  [GenerarFichero] Starting process: 14:15:58
+2025-10-21 14:15:58 INFO  [GenerarFichero] Consultado expediente para fechas: 20251021-20251021
+2025-10-21 14:15:58 INFO  [GenerarFichero] Numero de elementos devueltos: 0
+2025-10-21 14:15:58 INFO  [GenerarFichero] No se han encontrado expedientes para fechas: 20251021-20251021
+2025-10-21 14:15:58 INFO  [GenerarFichero] End process: 14:15:58
+2025-10-21 14:19:06 INFO  [GenerarFichero] Starting process: 14:19:06
+2025-10-21 14:19:06 INFO  [GenerarFichero] Consultado expediente para fechas: 20251021-20251021
+2025-10-21 14:19:09 INFO  [GenerarFichero] Numero de elementos devueltos: 1
+2025-10-21 14:19:09 INFO  [GenerarFichero] Consultando expediente con codigo st: 00718853
+2025-10-21 14:19:09 ERROR [GenerarFichero] No se ha generado informacion para expediente: 00718853. Error: Expediente ha sufrido una modificación posterior a su cierre
+2025-10-21 14:20:24 INFO  [GenerarFichero] ERROR: Excepcion en el metodo enviarMail de la clase Mail.java.Couldn't connect to host, port: 172.26.0.30, 25; timeout -1
+2025-10-21 14:20:24 INFO  [GenerarFichero] End process: 14:20:24
+2025-10-21 14:20:51 INFO  [GenerarFichero] Starting process: 14:20:51
+2025-10-21 14:20:52 INFO  [GenerarFichero] Consultado expediente para fechas: 20251021-20251021
+2025-10-21 14:20:54 INFO  [GenerarFichero] Numero de elementos devueltos: 1
+2025-10-21 14:20:54 INFO  [GenerarFichero] Consultando expediente con codigo st: 00718853
+2025-10-21 14:20:54 ERROR [GenerarFichero] No se ha generado informacion para expediente: 00718853. Error: Expediente ha sufrido una modificación posterior a su cierre
+2025-10-21 14:22:51 INFO  [GenerarFichero] Starting process: 14:22:51
+2025-10-21 14:22:51 INFO  [GenerarFichero] Consultado expediente para fechas: 20250310-20151010
+2025-10-21 14:22:52 INFO  [GenerarFichero] Numero de elementos devueltos: 0
+2025-10-21 14:22:52 INFO  [GenerarFichero] No se han encontrado expedientes para fechas: 20250310-20151010
+2025-10-21 14:22:52 INFO  [GenerarFichero] End process: 14:22:52
+2025-10-21 14:23:04 INFO  [GenerarFichero] Starting process: 14:23:04
+2025-10-21 14:23:04 INFO  [GenerarFichero] Consultado expediente para fechas: 20250301-20151010
+2025-10-21 14:23:04 INFO  [GenerarFichero] Numero de elementos devueltos: 0
+2025-10-21 14:23:04 INFO  [GenerarFichero] No se han encontrado expedientes para fechas: 20250301-20151010
+2025-10-21 14:23:04 INFO  [GenerarFichero] End process: 14:23:04
+2025-10-21 14:23:17 INFO  [GenerarFichero] Starting process: 14:23:17
+2025-10-21 14:23:17 INFO  [GenerarFichero] Consultado expediente para fechas: 20250310-20151020
+2025-10-21 14:23:18 INFO  [GenerarFichero] Numero de elementos devueltos: 0
+2025-10-21 14:23:18 INFO  [GenerarFichero] No se han encontrado expedientes para fechas: 20250310-20151020
+2025-10-21 14:23:18 INFO  [GenerarFichero] End process: 14:23:18
+2025-10-21 14:40:48 INFO  [GenerarFichero] Starting process: 14:40:48
+2025-10-21 14:40:48 INFO  [GenerarFichero] Consultado expediente para fechas: 20270809-20151020
+2025-10-21 14:40:48 INFO  [GenerarFichero] Numero de elementos devueltos: 0
+2025-10-21 14:40:48 INFO  [GenerarFichero] No se han encontrado expedientes para fechas: 20270809-20151020
+2025-10-21 14:40:48 INFO  [GenerarFichero] End process: 14:40:48
+2025-10-21 14:54:39 INFO  [GenerarFichero] Starting process: 14:54:39
+2025-10-21 14:54:39 INFO  [GenerarFichero] Consultado expediente para fechas: 20270809-20151020
+2025-10-21 14:54:39 INFO  [GenerarFichero] Numero de elementos devueltos: 0
+2025-10-21 14:54:39 INFO  [GenerarFichero] No se han encontrado expedientes para fechas: 20270809-20151020
+2025-10-21 14:54:39 INFO  [GenerarFichero] End process: 14:54:39
+2025-10-21 15:20:36 INFO  [GenerarFichero] Starting process: 15:20:36
+2025-10-21 15:20:36 INFO  [GenerarFichero] Consultado expediente para fechas: 20250317-20151017
+2025-10-21 15:20:37 INFO  [GenerarFichero] Numero de elementos devueltos: 0
+2025-10-21 15:20:37 INFO  [GenerarFichero] No se han encontrado expedientes para fechas: 20250317-20151017
+2025-10-21 15:20:37 INFO  [GenerarFichero] End process: 15:20:37
+2025-10-21 15:21:30 INFO  [GenerarFichero] Starting process: 15:21:30
+2025-10-21 15:21:30 INFO  [GenerarFichero] Consultado expediente para fechas: 20250317-20151017
+2025-10-21 15:21:30 INFO  [GenerarFichero] Numero de elementos devueltos: 0
+2025-10-21 15:21:30 INFO  [GenerarFichero] No se han encontrado expedientes para fechas: 20250317-20151017
+2025-10-21 15:21:30 INFO  [GenerarFichero] End process: 15:21:30
+2025-10-21 15:29:01 INFO  [GenerarFichero] Starting process: 15:29:01
+2025-10-21 15:29:01 INFO  [GenerarFichero] Consultado expediente para fechas: 20251017-20251017
+2025-10-21 15:29:06 INFO  [GenerarFichero] Numero de elementos devueltos: 2
+2025-10-21 15:29:06 INFO  [GenerarFichero] Consultando expediente con codigo st: 00718853
+2025-10-21 15:29:06 INFO  [GenerarFichero] Set litera
+2025-10-21 15:29:06 ERROR [GenerarFichero] Exception: null
+2025-10-21 15:29:06 INFO  [GenerarFichero] End process: 15:29:06
+2025-10-21 15:32:10 INFO  [GenerarFichero] Starting process: 15:32:10
+2025-10-21 15:32:10 INFO  [GenerarFichero] Consultado expediente para fechas: 20251017-20251017
+2025-10-21 15:32:15 INFO  [GenerarFichero] Numero de elementos devueltos: 2
+2025-10-21 15:32:15 INFO  [GenerarFichero] Consultando expediente con codigo st: 00718853
+2025-10-21 15:32:15 INFO  [GenerarFichero] Set litera
+2025-10-21 15:32:15 INFO  [GenerarFichero] siniestro:43202501613
+2025-10-21 15:32:15 INFO  [GenerarFichero] fecha:2025/10/17
+2025-10-21 15:32:15 ERROR [GenerarFichero] Exception: null
+2025-10-21 15:32:15 INFO  [GenerarFichero] End process: 15:32:15
+2025-10-21 15:35:36 INFO  [GenerarFichero] Starting process: 15:35:36
+2025-10-21 15:35:36 INFO  [GenerarFichero] Consultado expediente para fechas: 20251017-20251017
+2025-10-21 15:35:40 INFO  [GenerarFichero] Numero de elementos devueltos: 2
+2025-10-21 15:35:40 INFO  [GenerarFichero] Consultando expediente con codigo st: 00718853
+2025-10-21 15:35:40 INFO  [GenerarFichero] Set litera
+2025-10-21 15:35:40 INFO  [GenerarFichero] siniestro:43202501613
+2025-10-21 15:35:40 INFO  [GenerarFichero] fecha:2025/10/17
+2025-10-21 15:35:40 INFO  [GenerarFichero] Set documento
+2025-10-21 15:35:40 INFO  [GenerarFichero] Set nodo
+2025-10-21 15:35:40 INFO  [GenerarFichero] Expediente con codigo st: 00718853 se ha añadido a la lista de expedientes a comprimir
+2025-10-21 15:35:40 INFO  [GenerarFichero] Consultando expediente con codigo st: 00718855
+2025-10-21 15:35:40 INFO  [GenerarFichero] Set litera
+2025-10-21 15:35:40 INFO  [GenerarFichero] siniestro:43202501618
+2025-10-21 15:35:40 INFO  [GenerarFichero] fecha:2025/10/17
+2025-10-21 15:35:40 INFO  [GenerarFichero] Set documento
+2025-10-21 15:35:40 INFO  [GenerarFichero] Set nodo
+2025-10-21 15:35:40 INFO  [GenerarFichero] Expediente con codigo st: 00718855 se ha añadido a la lista de expedientes a comprimir
+2025-10-21 15:35:40 INFO  [GenerarFichero] Generando zips para 2 elementos
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Zip failed: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Zip failed: 043202501618_17102025.zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] ***********Execute faild ZIPS*************
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try1 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 1
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try2 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 2
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try3 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 3
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try4 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 4
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try5 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 5
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try6 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 6
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try7 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 7
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try8 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 8
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try9 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 9
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501613_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501613_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try10 :043202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 10
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try1 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 1
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try2 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 2
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try3 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 3
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try4 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 4
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try5 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 5
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try6 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 6
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try7 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 7
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try8 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 8
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try9 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 9
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip: 043202501618_17102025.zip
+2025-10-21 15:35:50 ERROR [GenerarFichero] RemoteException in class main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarZip. Zip not generated: 043202501618_17102025.ZIP. Message: ; nested exception is: 
+	java.net.UnknownHostException: SCOR0-BPM01-VM
+2025-10-21 15:35:50 INFO  [GenerarFichero] Trying to execute failed Zip again. Try10 :043202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:35:50 INFO  [GenerarFichero] limite: 10
+2025-10-21 15:35:50 INFO  [GenerarFichero] ZIPS CER0: 043202501613_17102025 043202501618_17102025 
+2025-10-21 15:37:05 INFO  [GenerarFichero] ERROR: Excepcion en el metodo enviarMail de la clase Mail.java.Couldn't connect to host, port: 172.26.0.30, 25; timeout -1
+2025-10-21 15:37:05 INFO  [GenerarFichero] End process: 15:37:05
+2025-10-21 15:39:04 INFO  [GenerarFichero] Starting process: 15:39:04
+2025-10-21 15:39:04 INFO  [GenerarFichero] Consultado expediente para fechas: 20251017-20251017
+2025-10-21 15:39:09 INFO  [GenerarFichero] Numero de elementos devueltos: 2
+2025-10-21 15:39:09 INFO  [GenerarFichero] Consultando expediente con codigo st: 00718853
+2025-10-21 15:39:09 INFO  [GenerarFichero] Set litera
+2025-10-21 15:39:09 INFO  [GenerarFichero] siniestro:43202501613
+2025-10-21 15:39:09 INFO  [GenerarFichero] fecha:2025/10/17
+2025-10-21 15:39:09 INFO  [GenerarFichero] Set documento
+2025-10-21 15:39:09 INFO  [GenerarFichero] Set nodo
+2025-10-21 15:39:09 INFO  [GenerarFichero] Expediente con codigo st: 00718853 se ha añadido a la lista de expedientes a comprimir
+2025-10-21 15:39:09 INFO  [GenerarFichero] Consultando expediente con codigo st: 00718855
+2025-10-21 15:39:09 INFO  [GenerarFichero] Set litera
+2025-10-21 15:39:09 INFO  [GenerarFichero] siniestro:43202501618
+2025-10-21 15:39:09 INFO  [GenerarFichero] fecha:2025/10/17
+2025-10-21 15:39:09 INFO  [GenerarFichero] Set documento
+2025-10-21 15:39:09 INFO  [GenerarFichero] Set nodo
+2025-10-21 15:39:09 INFO  [GenerarFichero] Expediente con codigo st: 00718855 se ha añadido a la lista de expedientes a comprimir
+2025-10-21 15:39:09 INFO  [GenerarFichero] Generando zips para 2 elementos
+2025-10-21 15:39:21 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:21 INFO  [GenerarFichero] Zip failed: 43202501613_17102025.zip
+2025-10-21 15:39:21 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:21 INFO  [GenerarFichero] Zip failed: 43202501618_17102025.zip
+2025-10-21 15:39:21 INFO  [GenerarFichero] ***********Execute faild ZIPS*************
+2025-10-21 15:39:21 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip again. Try1 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] limite: 1
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip again. Try2 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] limite: 2
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip again. Try3 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] limite: 3
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip again. Try4 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] limite: 4
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip again. Try5 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:22 INFO  [GenerarFichero] limite: 5
+2025-10-21 15:39:22 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:23 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:23 INFO  [GenerarFichero] Trying to execute failed Zip again. Try6 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:23 INFO  [GenerarFichero] limite: 6
+2025-10-21 15:39:23 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:23 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:23 INFO  [GenerarFichero] Trying to execute failed Zip again. Try7 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:23 INFO  [GenerarFichero] limite: 7
+2025-10-21 15:39:23 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:23 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:23 INFO  [GenerarFichero] Trying to execute failed Zip again. Try8 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:23 INFO  [GenerarFichero] limite: 8
+2025-10-21 15:39:23 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:23 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:23 INFO  [GenerarFichero] Trying to execute failed Zip again. Try9 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:23 INFO  [GenerarFichero] limite: 9
+2025-10-21 15:39:23 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501613_17102025.zip
+2025-10-21 15:39:24 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501613_17102025.ZIP
+2025-10-21 15:39:24 INFO  [GenerarFichero] Trying to execute failed Zip again. Try10 :43202501613_17102025_[com.scortelemed.servicios.Documentacion@129e9969, com.scortelemed.servicios.Documentacion@4b086d22, com.scortelemed.servicios.Documentacion@ed54b8bb, com.scortelemed.servicios.Documentacion@14451f61, com.scortelemed.servicios.Documentacion@c2609bc5, com.scortelemed.servicios.Documentacion@4d3763b4, com.scortelemed.servicios.Documentacion@81ec17ca, com.scortelemed.servicios.Documentacion@e762cbea, com.scortelemed.servicios.Documentacion@57458c11, com.scortelemed.servicios.Documentacion@d86a67d5].zip
+2025-10-21 15:39:24 INFO  [GenerarFichero] limite: 10
+2025-10-21 15:39:24 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:24 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:24 INFO  [GenerarFichero] Trying to execute failed Zip again. Try1 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:24 INFO  [GenerarFichero] limite: 1
+2025-10-21 15:39:24 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:24 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:24 INFO  [GenerarFichero] Trying to execute failed Zip again. Try2 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:24 INFO  [GenerarFichero] limite: 2
+2025-10-21 15:39:24 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:24 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:24 INFO  [GenerarFichero] Trying to execute failed Zip again. Try3 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:24 INFO  [GenerarFichero] limite: 3
+2025-10-21 15:39:24 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip again. Try4 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] limite: 4
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip again. Try5 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] limite: 5
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip again. Try6 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] limite: 6
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip again. Try7 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] limite: 7
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip again. Try8 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:25 INFO  [GenerarFichero] limite: 8
+2025-10-21 15:39:25 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:26 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:26 INFO  [GenerarFichero] Trying to execute failed Zip again. Try9 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:26 INFO  [GenerarFichero] limite: 9
+2025-10-21 15:39:26 INFO  [GenerarFichero] Trying to execute failed Zip: 43202501618_17102025.zip
+2025-10-21 15:39:26 INFO  [GenerarFichero] INFO: Zip generated whit zero. 43202501618_17102025.ZIP
+2025-10-21 15:39:26 INFO  [GenerarFichero] Trying to execute failed Zip again. Try10 :43202501618_17102025_[com.scortelemed.servicios.Documentacion@48ede445, com.scortelemed.servicios.Documentacion@e6fa1dc9, com.scortelemed.servicios.Documentacion@7ab5d0e9, com.scortelemed.servicios.Documentacion@be349c22].zip
+2025-10-21 15:39:26 INFO  [GenerarFichero] limite: 10
+2025-10-21 15:39:26 INFO  [GenerarFichero] ZIPS CER0: 43202501613_17102025 43202501618_17102025 

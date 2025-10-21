@@ -1,0 +1,83 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'main.java.com.scortelemed.clientes.ficheros.zip.metlife'
+version = '1.0.0'
+
+java {
+    // Fuerza compilación con Java 8
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Incluye cualquier jar en lib/
+    implementation fileTree(dir: 'lib', include: ['*.jar'])
+}
+
+application {
+    // Clase principal del programa
+    mainClass = 'main.java.com.scortelemed.clientes.ficheros.zip.metlife.generacion.GenerarFichero'
+}
+
+// 🔹 Asegura que Gradle compile las clases desde /src
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+        resources {
+            srcDirs = ['resources']
+        }
+    }
+}
+
+// 🔹 Configura la tarea de compilación
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+// 🔹 Limpieza personalizada
+tasks.clean {
+    delete "build"
+}
+
+// 🔹 Configura el JAR ejecutable
+tasks.jar {
+    archiveBaseName.set("ClienteFicherosZipMetlife")
+    archiveVersion.set("")
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+    manifest {
+        attributes(
+                "Main-Class": application.mainClass.get()
+        )
+    }
+
+    // Incluye clases compiladas
+    from sourceSets.main.output
+
+    // 🔹 Incluye todas las dependencias de runtime
+    from {
+        configurations.runtimeClasspath.collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+
+    // 🔹 Incluye JARs externos de lib/ explícitamente
+    from {
+        fileTree(dir: 'lib', include: ['*.jar']).collect { zipTree(it) }
+    }
+    // 👉 fuerza que tu log4j.properties quede al final
+    from('resources') {
+        include 'log4j.properties'
+        into ''
+    }
+}
+
