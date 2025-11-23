@@ -54,7 +54,7 @@ public class ConsultaFrontal {
 			FrontalServiceLocator fs = new FrontalServiceLocator();
 			fs.setFrontalPortEndpointAddress(frontalPort);
 			Frontal frontal = fs.getFrontalPort();
-			((Stub) frontal)._setProperty(Call.CONNECTION_TIMEOUT_PROPERTY, 5000); // 5 segundos para conectar
+			((Stub) frontal)._setProperty(Call.CONNECTION_TIMEOUT_PROPERTY, 9000); // 5 segundos para conectar
 
 			if(estado == null) {
 				log.info("Consultado expediente para fechas: " + finicio + "-" + ffin);
